@@ -1,27 +1,30 @@
-### 👋 Hi, I’m Nicolas Raimundo
--------------
--------------
+## 👋 Hi, I’m Nicolas Raimundo
+#### 👨‍⚕️ From Physiotherapy to Data Analytics
+I am a Data Analyst with a background in Physiotherapy, combining analytical skills with a problem-solving mindset. With over six years of experience in healthcare and three years in leadership roles, I developed strong data-driven decision-making abilities, team coordination, and process optimization.
 
-I’m Data Analyst and also Physioterapist. My goal is to use my oldest skills and knowledge (as a sports physician) to combine it with my new skills (as a Data analyst).
-However, I'm open to work in a different enviroment, just like a Fintech ( for ex.).
-I have passion for data and the results that i achieve when the tools are used in the right way.
-My last learning was Python and I’m currently learning about Tableau and Google Cloud Platform.
+My goal is to apply my analytical skills and technical expertise to extract insights, optimize processes, and drive efficiency—whether in healthcare, fintech, or any data-driven industry.
+
+📊 Passionate about data analytics, process automation, and predictive modeling, I am always eager to learn new tools and explore innovative solutions.
+
+#### 🔧 Technical Skills
+✅ Data Analysis & Visualization: SQL | Python (Pandas, NumPy) | Power BI | Google Sheets
+✅ Databases: MySQL | PostgreSQL | SQLite
+✅ Machine Learning (Introductory): Scikit-Learn
+✅ Cloud Computing (Basic): Google Cloud Platform
+✅ Version Control: Git & GitHub
+
+Currently, I am collaborating on a team project hosted on GitHub, where we leverage predictive modeling and cloud-based tools to analyze data and generate insights.
+
+#### 🏆 Strengths & Soft Skills
+✔ Problem-solving & results-oriented mindset
+✔ Leadership & team management (3+ years leading physiotherapists)
+✔ Resilience, self-discipline & perseverance
+✔ Process optimization & efficiency-focused
+✔ Commitment & long-term dedication
+
+I thrive in structured environments where I can organize disordered systems, enhance workflows, and turn raw data into actionable insights.
 
 
-
---------------
---------------
-The main Skills that I use are:
-
--Google SpreadSheets 
-
--Excel
-
--SQL
-
--Power BI
-
--Python
 
 
 <h3 align="left">Connect with me:</h3>
